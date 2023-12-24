@@ -1,7 +1,3 @@
-Certainly! Writing a comprehensive GitHub documentation involves several steps, and it's essential to cover aspects like project setup, features, database structure, and usage instructions. Below is a simplified outline that you can use as a starting point. Please adapt it according to your project's specifics.
-
----
-
 # Ice Cream Online Store Documentation
 
 ## Table of Contents
