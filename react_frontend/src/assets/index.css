@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #FCFCFC;
+}
+
+.joinus {
+  background-image: url('/public/images/icecream/icecream_3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer {
+  background-image: url('/public/images/icecream/footer.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Assuming your CSS file or style block */
+.rfm-marquee-container::-webkit-scrollbar {
+  width: 0 !important;
+}
+
+/* Optional: If you're using Firefox */
+.rfm-marquee-container {
+  scrollbar-width: none;
+}
+
+/* Chrome, Safari, Edge, Opera */
+.quantity::-webkit-outer-spin-button,
+.quantity::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+/* Hide ScrollBar : */
+.ShoppingCart_div {
+  overflow-y: scroll; 
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+.ShoppingCart_div::-webkit-scrollbar {
+  width: 6px;
+}
+
+.ShoppingCart_div::-webkit-scrollbar-thumb {
+  background-color: transparent; 
+}
