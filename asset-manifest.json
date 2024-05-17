@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ice-cream-store-react-laravel/static/css/main.92f825b4.css",
+    "main.js": "/ice-cream-store-react-laravel/static/js/main.150949a5.js",
+    "static/media/icecream_3.jpg": "/ice-cream-store-react-laravel/static/media/icecream_3.1aebe88f5dfd920c9dec.jpg",
+    "static/media/slick.svg": "/ice-cream-store-react-laravel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ice-cream-store-react-laravel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ice-cream-store-react-laravel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ice-cream-store-react-laravel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ice-cream-store-react-laravel/index.html",
+    "main.92f825b4.css.map": "/ice-cream-store-react-laravel/static/css/main.92f825b4.css.map",
+    "main.150949a5.js.map": "/ice-cream-store-react-laravel/static/js/main.150949a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f825b4.css",
+    "static/js/main.150949a5.js"
+  ]
+}
