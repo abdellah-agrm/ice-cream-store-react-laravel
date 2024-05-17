@@ -2,7 +2,7 @@
   "name": "react_frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.ice-cream-store-react.com/",
+  "homepage": "https://abdellah-agrm.github.io/ice-cream-store-react-laravel/",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@testing-library/jest-dom": "^5.17.0",
