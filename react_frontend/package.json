@@ -2,7 +2,6 @@
   "name": "react_frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdellah-agrm.github.io/ice-cream-store-react-laravel/",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@testing-library/jest-dom": "^5.17.0",
@@ -35,11 +34,9 @@
   },
   "scripts": {
     "start": "set PORT=2000 && react-scripts start",
-    "build": "react-scripts build && mv build ../",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
