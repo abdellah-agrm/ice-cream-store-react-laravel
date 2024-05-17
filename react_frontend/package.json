@@ -2,6 +2,7 @@
   "name": "react_frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://www.ice-cream-store-react.com/",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@testing-library/jest-dom": "^5.17.0",
@@ -36,7 +37,9 @@
     "start": "set PORT=2000 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "cd react_frontend && npm install && npm run build",
+    "deploy": "gh-pages -d react_frontend/build"
   },
   "eslintConfig": {
     "extends": [
@@ -57,6 +60,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.3.6"
   }
 }
